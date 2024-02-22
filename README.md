@@ -1,2 +1,2 @@
 # GoogleMaps
-First SelfMade Automated Test
+First Automated Test
